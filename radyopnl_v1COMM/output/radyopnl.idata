@@ -1,0 +1,14 @@
+flash  CF4 SRAM   18:
+ 00 129 bytes
+flash  CF8 SRAM   99:
+ <size at next line>   2  5  7  A  C  F 11 14 16 19 1B 1E 20 23 25 28 2A 2D 2F 32 34 37 39 3C 3E 41 43 46 48 4B 4D 50 52 55 57 5A 5C 5F 61
+  [size:] 39 bytes
+flash  D22 SRAM   C0:
+ 00 64 bytes
+flash  D26 SRAM  100:
+ <size at next line>  12 13 14 15 16 17 18 19 1A 1B 1C 1D 1E 1F 20 21 22 23 24
+  [size:] 19 bytes
+flash  D3C SRAM  113:
+ 00 16 bytes
+flash  D40 SRAM  132:
+ 00 28 bytes
